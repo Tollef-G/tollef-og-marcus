@@ -48,7 +48,7 @@
             <p>Trykk på "create new file" og kall den "index.md"
             <br>
             <br>
-            <img src="https://i.imgur.com/HR4a1KZ.png" alt ="Ny fil" width="500"> <!-- Gir bildene ett navn i tilfelle bildene ikke kan vises 9oi-->
+            <img src="https://i.imgur.com/HR4a1KZ.png" alt ="Ny fil" width="500"> <!-- Gir bildene ett navn i tilfelle bildene ikke kan vises -->
             <br>
             <br>
             Kopier koden din og lim den inn i index.md, deretter blar du ned og trykker på "commit new file"
@@ -78,10 +78,7 @@
           </p>
     
 
-        </li>
-        </li>
-        </li>
-       </li>
+       
    </ul>
 </body>
 </html>
